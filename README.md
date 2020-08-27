@@ -1,8 +1,8 @@
 # Python-Tutorial-TechVives
 Here I upload all the Source Code from the TechVives Python Tutorial Series. 
 Every Python File Of There Are The Source Code Of That Article that I Published In TechVives.com's Python Tutorial Series. So, If you want know, how I created this project, then you can visit our website..
-https://techvives.com/category/learn-coding/python/python-tutorial/
-Here I also Upload Python Projects That I will make in this Tutorial Series, And you can send me pull request for anything that you want to change from these codes.
+https://techvives.com/category/learn-coding/python/python-tutorial/  
+Here I also Upload Python Projects That I make in this Tutorial Series, And you can send me pull request for anything that you want to change in these codes.
 
 <h2>Links Of All Source Code's Articles</h2>
 
