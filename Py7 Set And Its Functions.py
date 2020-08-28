@@ -23,7 +23,7 @@ lang = set(["PHP", "Python", "Java"])
 lang.add("C++")
 print(lang)
 
-# Intersection Of Set
+# Intersection() Of Set
 lang = set(["PHP", "Python", "Java"])
 snake = set(["Viper", "Anaconda", "Python"])
 intsct = snake.intersection(lang)
