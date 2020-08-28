@@ -68,8 +68,7 @@ nums.reverse()
 print(nums)
 
 
-# Tuples---
-
+## Tuples---
 tup = (4, 6, 8, 9)
 # This is a tuple.
 
