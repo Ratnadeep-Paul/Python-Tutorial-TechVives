@@ -1,3 +1,4 @@
+# Variables
 name = "Nick"
 age = 30
 height = 5.9
@@ -26,7 +27,6 @@ print(name1+name2)
 print(name1, name2)
 
 # we can also add extra data with variables inside the print() statement.
-
 print(name1 + " is my life")
 print(name1, 56*2) # here we use commas because Plus will give us errors.
 print(name1 + "nology" , "is everywhere")
@@ -84,7 +84,9 @@ print("you inputted =", user_input )
 # Example of Taking Inputs And Store them in Variables and Print them----------
 inpu1 = input("What is your name\n:-")
 """
-We can add any string, inside the input's bracket to print it. And I write "\n" to get a new line where we can enter the input. If we don't add "\n" than we need to enter the input alongside with the written string and it looks very bad. If wan't to see it, than you can try it (without "\n").
+We can add any string, inside the input's bracket to print it. And I write "\n" to get a new line where we can enter the input. 
+If we don't add "\n" than we need to enter the input alongside with the written string and it looks very bad. 
+If you wan't to see it, than you can try it (without "\n").
 """
 
 print("Hii", inpu1, "You are amazing!!")
