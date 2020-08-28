@@ -41,27 +41,31 @@ print(numstr[2:9:2])
 # We will also get the same output, if we write like this--
 print(numstr[::2], numstr[0::2], numstr[:10:2])
 
+# Negative Value In String
 astr = "This Is TechVives"
-
 print(astr[0:-1])
 print(astr[0:-2])
 print(astr[2:-5])
 
+# Count Function In String
 str = "This is TechVives"
-
 a = str.count("i")
 print(a)
 
+# Find Function In String
 # Default = find("Name Of The Words or Character, You Want To Find")
 b = str.find("Vives")
 print(b)
 
+# Replace Function In String
 # Default Value = Replace("words or character you want to change", "With the word you want to change")
 c = str.replace("Tech", "Knowledge")
 print(c)
 
+# Upper Function In String
 e = str.upper()
 print(e)
 
+# Title Function In String
 f = str.title()
 print(f)
