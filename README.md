@@ -24,8 +24,8 @@ Here I also Upload Python Projects That I make in this Tutorial Series, And you 
 <h4>Py5 List And Its Functions-- </h4>
 <p>https://techvives.com/list-function-in-python/</p>
 
-<h4>Py6 Dictionary And Its Functions.py-- </h4>
+<h4>Py6 Dictionary And Its Functions-- </h4>
 <p>https://techvives.com/dictionary-and-its-functions-in-python/</p>
 
-<h4>Set And Its Functions </h2>
+<h4>Py7 Set And Its Functions-- </h2>
 <p>https://techvives.com/set-and-its-functions-in-python/</p>
