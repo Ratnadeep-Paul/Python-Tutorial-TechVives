@@ -1,4 +1,4 @@
-# Print
+## Print
 print("Hello World")
 print("Your Name")
 print(" My name is <your name here>\n And I am a programmer")
@@ -15,7 +15,7 @@ print("My age is",2020-2002)
 print("15*2 + 10*9 - 81/9 =",15*2+10*9-81/9)
 
 
-# Comments
+## Comments
 # This is my name Don't delete it.
 print("FirstName LastName")
 """ This
@@ -27,7 +27,7 @@ comments
 """
 print("We just write a Multiline comment")
 
-# Escapes
+## Escapes
 print("OnePlus\nord")
 print("Hi, He is Bhuvan Bam \n And he is a YouTuber")
 print("This is \r Python Tutorial")
