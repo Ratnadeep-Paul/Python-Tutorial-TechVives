@@ -1,5 +1,6 @@
 dc = {"Car":"BMW", "Bike":"Kawasaki"}
 # This is a simple Dictionary.
+
 # Default Dictionary = {"Key":"Value"}
 
 print(dc)
