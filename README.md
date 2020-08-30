@@ -9,6 +9,9 @@ Here I also Upload Python Projects That I make in this Tutorial Series, And you 
 <h4>Project-1 Dictionary Project-- </h4>
 <p>https://techvives.com/python-dictionary-project/</p>
 
+<h4>Project-1 Math Test Project-- </h4>
+<p>https://techvives.com/python-math-test-project/</p>
+
 <h4>Py1 Print, Comment And Escapes-- </h4>
 <p>https://techvives.com/print-comment-and-escapes-in-python/</p>
 
