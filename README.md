@@ -32,3 +32,9 @@ Here I also Upload Python Projects That I make in this Tutorial Series, And you 
 
 <h4>Py7 Set And Its Functions-- </h2>
 <p>https://techvives.com/set-and-its-functions-in-python/</p>
+
+<h4>Py8 If-Else And Elif In Python-- </h2>
+<p>https://techvives.com/if-else-and-elif-in-python/</p>
+
+<h4>Py9 For Loop In Python-- </h2>
+<p>https://techvives.com/for-loop-in-python/</p>
