@@ -38,3 +38,6 @@ Here I also Upload Python Projects That I make in this Tutorial Series, And you 
 
 <h4>Py9 For Loop In Python-- </h2>
 <p>https://techvives.com/for-loop-in-python/</p>
+
+<h4>Py10 While Loop In Python-- </h2>
+<p>https://techvives.com/while-loop-in-python/</p>
