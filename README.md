@@ -41,3 +41,6 @@ Here I also Upload Python Projects That I make in this Tutorial Series, And you 
 
 <h4>Py10 While Loop In Python-- </h2>
 <p>https://techvives.com/while-loop-in-python/</p>
+
+<h4>Py11 Break And Continue In Loops Of Python-- </h2>
+<p>https://techvives.com/break-and-continue-in-loop-of-python/</p>
