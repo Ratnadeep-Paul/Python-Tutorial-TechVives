@@ -10,7 +10,7 @@ Here I also Upload Python Projects That I make in this Tutorial Series, And you 
 <p>https://techvives.com/python-dictionary-project/</p>
 
 <h4>Project-2 Math Test Project-- </h4>
-<p>https://techvives.com/python-math-test-project/</p>
+<p> https://techvives.com/python-math-test-project/</p>
 
 <h4>Project-3 Guess The Number Project-- </h2>
 <p>https://techvives.com/python-guess-the-number-project/</p>
