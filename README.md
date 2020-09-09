@@ -47,3 +47,6 @@ Here I also Upload Python Projects That I make in this Tutorial Series, And you 
 
 <h4>Py11 Break And Continue In Loops Of Python-- </h2>
 <p>https://techvives.com/break-and-continue-in-loop-of-python/</p>
+
+<h4>Py12 Operators In Python Python-- </h2>
+<p>https://techvives.com/operators-in-python/</p>
